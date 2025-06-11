@@ -10,7 +10,7 @@
 - 🎓 Created educational apps leveraging AI for practical impact
 
 ### Currently Learning
-- **LLM & RAG localization**
+- **Local LLM, RAG & AI Agent**
 - **APIs:** ChatGPT, Grok, Ali Cloud, Google Gemini, Deepseek
 - **Integrating these APIs with AWS Lambda for low cost scalable application for mobile phone**
 
