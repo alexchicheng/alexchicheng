@@ -43,9 +43,17 @@
 
 ---
 
-## 📫 How to reach me
+## 🎓 Education Backgrond
 
-- [GitHub](https://github.com/alexchicheng)
+- **Data Science**
+- **Electronic Engineering**
+- **Psychology**
+
+## 🌐 Languages
+
+- English
+- Cantonese
+- Mandarin (普通話)
 
 ---
 
