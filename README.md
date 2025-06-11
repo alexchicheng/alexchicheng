@@ -10,11 +10,10 @@
 - 🎓 Created educational apps leveraging AI for practical impact
 
 ### Currently Learning
-- **LLM & RAG localization**
+- **Local LLM, RAG & AI Agent**
 - **APIs:** ChatGPT, Grok, Ali Cloud, Google Gemini, Deepseek
 - **Integrating these APIs with AWS Lambda for low cost scalable application for mobile phone**
 
----
 
 ## 🚀 Tech Stack
 
@@ -24,7 +23,6 @@
 - **Automation:** Docker
 - **Networking:** 10+ years at Cisco
 
----
 
 ## 📂 Featured Projects
 
@@ -33,7 +31,6 @@
 - **Cloud Automation Scripts** for event registration
 - **Church Sermon Enquiry System** on AWS Lambda
 
----
 
 ## 🏆 Certifications
 
@@ -41,7 +38,6 @@
 - IBM Data Science Solutions Architect (former)
 - Cisco CCNP (Network, Security, Voice) (former)
 
----
 
 ## 🎓 Education Backgrond
 
@@ -55,6 +51,5 @@
 - Cantonese
 - Mandarin (普通話)
 
----
 
 *Always exploring the next frontier in AI, cloud, and automation!*
