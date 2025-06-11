@@ -12,6 +12,7 @@
 ### Currently Learning
 - **LLM & RAG localization**
 - **APIs:** ChatGPT, Grok, Ali Cloud, Google Gemini, Deepseek
+- **Integrating these APIs with AWS Lambda for low cost scalable application for mobile phone**
 
 ---
 
